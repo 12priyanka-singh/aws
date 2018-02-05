@@ -1,0 +1,15 @@
+com/housejoy/StartStopInstance.class
+com/housejoy/App.class
+com/housejoy/TerminateInstance.class
+com/housejoy/RebootMain.class
+com/housejoy/TestMain.class
+com/housejoy/CreateInstance.class
+com/housejoy/DeleteAmi.class
+com/housejoy/CreateSnapsort.class
+com/housejoy/TestCreate.class
+com/housejoy/CreateAmi.class
+com/housejoy/RebootInstance.class
+com/housejoy/DeleteSnapsort.class
+com/housejoy/CreateMain.class
+com/housejoy/AddSecurity.class
+com/housejoy/AddSecurityMain.class
